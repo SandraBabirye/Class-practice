@@ -1,0 +1,7 @@
+### Ignore files whose extensions are here 
+*.pdf
+*.png
+*.jpg
+*.sam
+*.doc
+*.txt
